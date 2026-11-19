@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stardut.github.io/Foliune/sitemap.xml
